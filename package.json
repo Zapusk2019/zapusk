@@ -31,7 +31,7 @@
     "cron": "^1.7.2",
     "css-loader": "^0.28.11",
     "express": "^4.16.3",
-    "express-handlebars": "^3.0.0",
+    "express-handlebars": "^5.3.1",
     "google-maps": "^3.3.0",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^4.0.0",
