@@ -60,7 +60,7 @@
     "request": "^2.87.0",
     "request-promise": "^4.2.2",
     "sass-loader": "^6.0.7",
-    "sharp": "^0.23.3",
+    "sharp": "^0.30.5",
     "socket.io": "^2.1.1",
     "sweetalert2": "^7.18.0",
     "vue": "^2.5.16",
